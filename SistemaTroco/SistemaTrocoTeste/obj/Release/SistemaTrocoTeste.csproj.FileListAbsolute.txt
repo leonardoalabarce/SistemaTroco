@@ -1,0 +1,7 @@
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\bin\Release\SistemaTrocoTeste.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\bin\Release\SistemaTrocoTeste.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\bin\Release\SistemaTroco.Utils.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\bin\Release\SistemaTroco.Utils.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\obj\Release\SistemaTrocoTeste.csprojResolveAssemblyReference.cache
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\obj\Release\SistemaTrocoTeste.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTrocoTeste\obj\Release\SistemaTrocoTeste.pdb

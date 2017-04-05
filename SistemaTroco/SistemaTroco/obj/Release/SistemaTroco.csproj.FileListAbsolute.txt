@@ -1,0 +1,21 @@
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\SistemaTroco.exe.config
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.Form1.resources
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.Properties.Resources.resources
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.csproj.GenerateResource.Cache
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\SistemaTroco.exe
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\SistemaTroco.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\Iesi.Collections.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\NHibernate.ByteCode.LinFu.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\NHibernate.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\Iesi.Collections.xml
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\NHibernate.xml
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.exe
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.csprojResolveAssemblyReference.cache
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\MapeamentoOR.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\MapeamentoOR.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\SistemaTroco.Utils.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Release\SistemaTroco.Utils.pdb
+C:\Users\leonardo.alabarce\Source\Repos\projetos\SistemaTroco2\SistemaTroco\SistemaTroco\bin\Release\SistemaTroco.exe.config
+C:\Users\leonardo.alabarce\Source\Repos\projetos\SistemaTroco2\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.exe
+C:\Users\leonardo.alabarce\Source\Repos\projetos\SistemaTroco2\SistemaTroco\SistemaTroco\obj\Release\SistemaTroco.pdb

@@ -1,0 +1,5 @@
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco.Utils\obj\Release\SistemaTroco.Utils.csprojResolveAssemblyReference.cache
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco.Utils\bin\Release\SistemaTroco.Utils.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco.Utils\bin\Release\SistemaTroco.Utils.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco.Utils\obj\Release\SistemaTroco.Utils.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco.Utils\obj\Release\SistemaTroco.Utils.pdb

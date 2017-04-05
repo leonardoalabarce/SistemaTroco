@@ -1,0 +1,11 @@
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\MapeamentoOR.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\MapeamentoOR.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\obj\Release\MapeamentoOR.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\obj\Release\MapeamentoOR.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\MapeamentoOR.dll.config
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\Iesi.Collections.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\NHibernate.ByteCode.LinFu.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\NHibernate.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\Iesi.Collections.xml
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\bin\Release\NHibernate.xml
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\MapeamentoOR\obj\Release\MapeamentoOR.csprojResolveAssemblyReference.cache

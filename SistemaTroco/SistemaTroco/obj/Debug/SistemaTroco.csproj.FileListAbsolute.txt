@@ -1,0 +1,14 @@
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\SistemaTroco.exe.config
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Debug\SistemaTroco.csprojResolveAssemblyReference.cache
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Debug\SistemaTroco.Form1.resources
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Debug\SistemaTroco.Properties.Resources.resources
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Debug\SistemaTroco.csproj.GenerateResource.Cache
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\SistemaTroco.exe
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\SistemaTroco.pdb
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\Iesi.Collections.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\NHibernate.ByteCode.LinFu.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\NHibernate.dll
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\Iesi.Collections.xml
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\bin\Debug\NHibernate.xml
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Debug\SistemaTroco.exe
+c:\users\leonardo.alabarce\documents\visual studio 2013\Projects\SistemaTroco\SistemaTroco\obj\Debug\SistemaTroco.pdb

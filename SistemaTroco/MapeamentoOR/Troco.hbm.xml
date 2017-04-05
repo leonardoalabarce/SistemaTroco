@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true">
+
+  <class name="MapeamentoOR.Troco, MapeamentoOR" lazy="true">
+
+    <id name="Id">
+
+      <generator class="native"/>
+
+    </id>
+
+    <property name="ValorTotal" column ="ValorTotal"/>
+
+    <property name="ValorPago" column="ValorPago"/>
+
+    <property name="ValorRecebido" column ="ValorRecebido"/>
+
+    <property name="Notas" column="Notas"/>
+
+  </class>
+</hibernate-mapping>
